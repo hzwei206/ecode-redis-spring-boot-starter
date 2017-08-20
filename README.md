@@ -2,21 +2,21 @@
  
   使用方法  
   1.  引入ecode-redis-spring-boot-starter-0.0.2.jar包   
-  (1) maven引入：将dist/ecode-redis-spring-boot-starter-0.0.2.jar包安装到您的maven仓库，然后引入依赖：
-  `
-      <dependency>
+  (1) maven引入：将dist/ecode-redis-spring-boot-starter-0.0.2.jar包安装到您的maven仓库，然后引入依赖：  
+    <pre>
+      <dependency>
   		     <groupId>com.jsecode.springboot.redis</groupId>
   		     <artifactId>ecode-redis-spring-boot-starter</artifactId>
   		     <version>0.0.1</version>
   	   </dependency>
-  `    
+    </pre> 
   (2)直接引入dist/ecode-redis-spring-boot-starter-0.0.2.jar到项目，同时引入redis包：  
-  `
+     <pre>
       <dependency>
       	  <groupId>redis.clients</groupId>
       	  <artifactId>jedis</artifactId>
       </dependency>
-  `
+    </pre> 
      
  
   2. application.properties 配置redis参数  
