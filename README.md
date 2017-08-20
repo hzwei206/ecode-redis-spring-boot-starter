@@ -2,9 +2,9 @@
  
   使用方法  
   1.  引入ecode-redis-spring-boot-starter-0.0.2.jar包   
-  (1) maven引入：将dist/ecode-redis-spring-boot-starter-0.0.2.jar包安装到您的maven仓库，然后引入依赖：  
-    <pre>
-         &lt;dependency&gt;
+  (1) maven引入：将dist/ecode-redis-spring-boot-starter-0.0.2.jar包安装到您的maven仓库，然后引入依赖：
+   <pre>
+    &lt;dependency&gt;
   	     &lt;groupId&gt;com.jsecode.springboot.redis&lt;/groupId&gt;
   	     &lt;artifactId&gt;ecode-redis-spring-boot-starter&lt;/artifactId&gt;
   	     &lt;version&gt;0.0.1&lt;/version&gt;
