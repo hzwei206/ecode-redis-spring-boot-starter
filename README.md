@@ -7,7 +7,7 @@
     &lt;dependency&gt;
   	     &lt;groupId&gt;com.jsecode.springboot.redis&lt;/groupId&gt;
   	     &lt;artifactId&gt;ecode-redis-spring-boot-starter&lt;/artifactId&gt;
-  	     &lt;version&gt;0.0.1&lt;/version&gt;
+  	     &lt;version&gt;0.0.2&lt;/version&gt;
     &lt;/dependency&gt;
     </pre> 
   (2)直接引入dist/ecode-redis-spring-boot-starter-0.0.2.jar到项目，同时引入redis包：  
